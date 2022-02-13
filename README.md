@@ -106,7 +106,7 @@ go.mod     0 secs         ░░░░░░░░░░░░░░░░░░
 
 <td valign="top" width="50%">
 
-#### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
+#### 🤹‍♀️ <a href="https://Nuozhihui.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
 * <a href='https://jasonkayzk.github.io/2022/02/11/MySQL%E4%B8%80%E8%87%B4%E6%80%A7%E8%A7%86%E5%9B%BE%E7%9A%84%E5%9D%91/' target='_blank'>MySQL一致性视图的坑</a> - 2022-02-11
@@ -122,19 +122,19 @@ go.mod     0 secs         ░░░░░░░░░░░░░░░░░░
 </table>
 
 
-|![](https://github-readme-stats.vercel.app/api?username=jasonkayzk&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonkayzk&layout=compact&theme=tokyonight&langs_count=10)|
+|![](https://github-readme-stats.vercel.app/api?username=Nuozhihui&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonkayzk&layout=compact&theme=tokyonight&langs_count=10)|
 |-|-|
 
 
-![](https://activity-graph.herokuapp.com/graph?username=jasonkayzk&theme=redical)
+![](https://activity-graph.herokuapp.com/graph?username=Nuozhihui&theme=redical)
 
 
 <p align="center">
-<a href="https://chat.getloli.com/room/@JasonkayZK?title=JasonkayZK-chatroom"><img src="https://chat.getloli.com/room/@JasonkayZK/svg?width=750&height=340&limit=20&theme=light&title=JasonayZK@github:%20~&fontSize=13"></a>
+<a href="https://chat.getloli.com/room/@Nuozhihui?title=JasonkayZK-chatroom"><img src="https://chat.getloli.com/room/@Nuozhihui/svg?width=750&height=340&limit=20&theme=light&title=Nuozhihui@github:%20~&fontSize=13"></a>
 </p>
 
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jasonkayzk/count.svg" />
+  <img src="https://profile-counter.glitch.me/Nuozhihui/count.svg" />
 </p>
