@@ -130,7 +130,7 @@ go.mod     0 secs         ░░░░░░░░░░░░░░░░░░
 
 
 <p align="center">
-<a href="https://chat.getloli.com/room/@Nuozhihui?title=JasonkayZK-chatroom"><img src="https://chat.getloli.com/room/@Nuozhihui/svg?width=750&height=340&limit=20&theme=light&title=Nuozhihui@github:%20~&fontSize=13"></a>
+<a href="https://chat.getloli.com/room/@Nuozhihui?title=Nuozhihui_HI"><img src="https://chat.getloli.com/room/@Nuozhihui/svg?width=750&height=340&limit=20&theme=light&title=Nuozhihui@github:%20~&fontSize=13"></a>
 </p>
 
 
