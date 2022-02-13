@@ -106,7 +106,7 @@ go.mod     0 secs         ░░░░░░░░░░░░░░░░░░
 
 <td valign="top" width="50%">
 
-#### 🤹‍♀️ <a href="https://Nuozhihui.github.io/" target="_blank">Recent Blog</a>
+#### 🤹‍♀️ <a href="https://NUOZHIHUI.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
 * <a href='https://jasonkayzk.github.io/2022/02/11/MySQL%E4%B8%80%E8%87%B4%E6%80%A7%E8%A7%86%E5%9B%BE%E7%9A%84%E5%9D%91/' target='_blank'>MySQL一致性视图的坑</a> - 2022-02-11
