@@ -79,9 +79,9 @@
 - 👯 I’m looking to collaborate on Micro-service, PaaS, SaaS and so on…
 - 🤔 I’m looking for help with Golang or Java development.
 - 💬 Ask me about Anything you want~
-- 📫 Reach me: 271226192@qq.com
+- 📫 Reach me: 1285574579@qq.com
 - 😄 Pronouns: Jasonkay
-- 👏 Follow Me: [![](https://img.shields.io/github/followers/jasonkayzk?label=follow%20me&style=social)](https://github.com/jasonkayzk/)
+- 👏 Follow Me: [![](https://img.shields.io/github/followers/NUOZHIHUI?label=follow%20me&style=social)](https://github.com/NUOZHIHUI/)
 - ⚡ Fun fact: Music, Japanese & English, Basketball, Animation, Video games.
 
 
