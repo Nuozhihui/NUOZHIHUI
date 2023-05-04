@@ -92,7 +92,8 @@
 
   
 
-- ![](https://activity-graph.herokuapp.com/graph?username=Nuozhihui&theme=redical)
+
+![](https://activity-graph.herokuapp.com/graph?username=Nuozhihui&theme=redical)
 
 
 </p>
