@@ -74,59 +74,25 @@
 
 
 
-- 🔭 I’m currently working in Tencent (Shenzhen, China).
+- 🔭 I’m a fresh college student (WeiFang, China).
+
 - 🌱 I’m currently learning Java, Golang, Rust, JS & TS.
-- 👯 I’m looking to collaborate on Micro-service, PaaS, SaaS and so on…
-- 🤔 I’m looking for help with Golang or Java development.
+
+- 🤔 I’m  looking for help with C or Pytho development.
+
 - 💬 Ask me about Anything you want~
+
 - 📫 Reach me: 1285574579@qq.com
-- 😄 Pronouns: Jasonkay
+
+- 😄 Pronouns: Nuozhihui
+
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/NUOZHIHUI?label=follow%20me&style=social)](https://github.com/NUOZHIHUI/)
-- ⚡ Fun fact: Music, Japanese & English, Basketball, Animation, Video games.
 
+- ⚡ Fun fact: Music, Make toys, Basketball, Animation, Video games.
 
-<table width="800px">
-<tr>
-<td valign="top" width="50%">
+  
 
-#### 🏊‍♂️ <a href="https://gist.github.com/JasonkayZK/59ead22758ee823e48b558d3cff332f1" target="_blank">Weekly Development Breakdown</a>
-
-<!-- code_time starts -->
-
-```text
-Rust       8 hrs 10 mins  ██████████████▉░░░░░░  71.0%
-SQL        2 hrs 25 mins  ████▍░░░░░░░░░░░░░░░░  21.1%
-Go         41 mins        █▎░░░░░░░░░░░░░░░░░░░   6.0%
-Markdown   11 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
-go.mod     0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-```
-
-<!-- code_time ends -->
-</td>
-
-<td valign="top" width="50%">
-
-#### 🤹‍♀️ <a href="https://NUOZHIHUI.github.io/" target="_blank">Recent Blog</a>
-
-<!-- blog starts -->
-* <a href='https://jasonkayzk.github.io/2022/02/11/MySQL%E4%B8%80%E8%87%B4%E6%80%A7%E8%A7%86%E5%9B%BE%E7%9A%84%E5%9D%91/' target='_blank'>MySQL一致性视图的坑</a> - 2022-02-11
-* <a href='https://jasonkayzk.github.io/2022/02/11/%E4%B8%80%E4%BA%9B%E5%AD%A6%E4%B9%A0Rust%E7%9A%84%E6%80%BB%E7%BB%93/' target='_blank'>一些学习Rust的总结</a> - 2022-02-11
-* <a href='https://jasonkayzk.github.io/2021/11/09/%E4%BD%BF%E7%94%A8C++%E8%A7%A3%E9%87%8A%E5%99%A8Cling/' target='_blank'>使用C++解释器Cling</a> - 2021-11-09
-* <a href='https://jasonkayzk.github.io/2021/11/09/%E5%AE%89%E8%A3%85JupyterLab/' target='_blank'>安装JupyterLab</a> - 2021-11-09
-* <a href='https://jasonkayzk.github.io/2021/10/31/%E4%BD%BF%E7%94%A8K8S%E9%83%A8%E7%BD%B2%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84Go%E5%BA%94%E7%94%A8/' target='_blank'>使用K8S部署最简单的Go应用</a> - 2021-10-31
-<!-- blog ends -->
-
-</td>
-</tr>
-
-</table>
-
-
-|![](https://github-readme-stats.vercel.app/api?username=Nuozhihui&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonkayzk&layout=compact&theme=tokyonight&langs_count=10)|
-|-|-|
-
-
-![](https://activity-graph.herokuapp.com/graph?username=Nuozhihui&theme=redical)
+- ![](https://activity-graph.herokuapp.com/graph?username=Nuozhihui&theme=redical)
 
 
 <p align="center">
